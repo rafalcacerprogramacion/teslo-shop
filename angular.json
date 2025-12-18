@@ -27,7 +27,7 @@
             "styles": [
               "src/styles.css"
             ],
-            "outputPath": "dist/teslo-shop"
+            "outputPath": "dist/"
           },
           "configurations": {
             "production": {
