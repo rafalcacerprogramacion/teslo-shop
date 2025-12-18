@@ -27,7 +27,7 @@
             "styles": [
               "src/styles.css"
             ],
-            "outputPath": "dist/browser"
+            "outputPath": "dist/browser/browser"
           },
           "configurations": {
             "production": {
